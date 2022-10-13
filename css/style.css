@@ -1,0 +1,10 @@
+.container {
+    width: 400px;
+    border: 1px solid lightgray;
+    background-color: lavender;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
