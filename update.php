@@ -1,3 +1,4 @@
+//this is update operation
 <?php
 include 'dbconnect.php';
 $id= $_GET['updted_id'];
